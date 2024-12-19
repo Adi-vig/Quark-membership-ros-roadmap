@@ -9,8 +9,6 @@ Quizzes to reinforce key concepts.
 Q&A Discussions to clarify doubts and deepen understanding.
 By the end of the program, you will have a strong foundation in ROS 2, control systems, sensor integration, and simulation tools, preparing you for practical robotics projects and applications.
 
-Here’s a refined version of your **Quark Membership ROS 2 Roadmap**. The improvements focus on balancing theory and hands-on work, adding milestone evaluations, expanding practical examples, and ensuring smooth progression:
-
 ---
 
 ## **Weekly Plan sessions plan:**
